@@ -1,0 +1,15 @@
+.container img{
+    width: 400px ;
+    height: 200px ;
+}
+
+footer img{
+    width: 300px ;
+    height: 200px ;
+}
+
+footer svg{
+    height: 35px;
+    width: 35px;
+    margin: 5px;
+}
